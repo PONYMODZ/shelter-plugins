@@ -1,11 +1,11 @@
 # BMT's Shelter plugins
 
-To install, copy the corresponding URL into Shelter.<br>
-Don't click them and expect them to work in a browser.<br><br>
+List of all Shelter plugins that I use.<br>
+To install, copy the corresponding URL into Shelter.<br><br>
 
 ## Plugins
 
-### [test](plugins/test/)
+### [Nightride FM](plugins/nightride-fm/)
 ```
-https://ponymodz.github.io/shelter-plugins/test/
+https://ponymodz.github.io/shelter-plugins/nightride-fm/
 ```
