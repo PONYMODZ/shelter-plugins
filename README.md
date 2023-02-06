@@ -5,7 +5,7 @@ To install, copy the corresponding URL into Shelter.<br><br>
 
 ## Plugins
 
-### [test](plugins/test/)
+### [Nightride FM](plugins/nightride-fm/)
 ```
-https://ponymodz.github.io/shelter-plugins/test/
+https://ponymodz.github.io/shelter-plugins/nightride-fm/
 ```
