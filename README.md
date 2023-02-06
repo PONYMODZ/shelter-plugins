@@ -1,7 +1,7 @@
 # BMT's Shelter plugins
 
-List of all Shelter plugins that I use.<br>
-To install, copy the corresponding URL into Shelter.<br><br>
+To install, copy the corresponding URL into Shelter.<br>
+Don't click them and expect them to work in a browser.<br><br>
 
 ## Plugins
 
